@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mshiva2202/LeetCode/tree/master/0001-two-sum) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mshiva2202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mshiva2202/LeetCode/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mshiva2202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mshiva2202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
