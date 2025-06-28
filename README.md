@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mshiva2202/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mshiva2202/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mshiva2202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mshiva2202/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
 | ------- |
