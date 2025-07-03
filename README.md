@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mshiva2202/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Matrix
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mshiva2202/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
