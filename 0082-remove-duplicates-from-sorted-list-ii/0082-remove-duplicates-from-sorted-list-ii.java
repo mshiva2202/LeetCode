@@ -32,6 +32,7 @@ class Solution {
             }
             else
             {
+                prev.next=cur;
                 prev=prev.next;
             }
 
