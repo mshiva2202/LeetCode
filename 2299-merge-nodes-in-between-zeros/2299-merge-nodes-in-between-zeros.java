@@ -12,6 +12,7 @@ class Solution {
     public ListNode mergeNodes(ListNode head) {
 
         ListNode newhead=new ListNode(22);
+        newhead.next=head;
         ListNode s=newhead;
         ListNode p=head;
         int sum=0;
@@ -27,12 +28,12 @@ class Solution {
                 p=p.next;
             }
 
-            ListNode a=new ListNode(sum);
-            s.next=a;
-            s=a;
+           // ListNode a=new ListNode(sum);
+            s.next.val=sum;
+            s=s.next;
             sum=0;
         }
-
+        s.next=null;
         return newhead.next;
         
     }
