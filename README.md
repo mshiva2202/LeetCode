@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mshiva2202/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/mshiva2202/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mshiva2202/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mshiva2202/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mshiva2202/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/mshiva2202/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
