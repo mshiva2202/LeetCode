@@ -1,0 +1,20 @@
+class Solution {
+    public int findLucky(int[] arr) {
+        int i=0,j=arr.length-1;
+        int ans=-1;
+        Map<Integer,Integer> m=new HashMap<>();
+         while(i<=j)
+        {
+            m.put(arr[i],m.getOrDefault(arr[i],0)+1);
+            i++;
+        }
+         for(Map.Entry<Integer,Integer> obj : m.entrySet()) 
+            if(obj.getKey()==obj.getValue()  && ans<obj.getKey())
+                {
+                    ans=obj.getKey();
+                }
+    
+        return ans;
+        
+    }
+}
