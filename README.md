@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mshiva2202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mshiva2202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mshiva2202/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mshiva2202/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/mshiva2202/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mshiva2202/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mshiva2202/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mshiva2202/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
