@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mshiva2202/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mshiva2202/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Matrix
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/mshiva2202/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/mshiva2202/LeetCode/tree/master/0148-sort-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/mshiva2202/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mshiva2202/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
