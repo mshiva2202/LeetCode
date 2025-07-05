@@ -8,10 +8,10 @@ class Solution {
             m.put(arr[i],m.getOrDefault(arr[i],0)+1);
             i++;
         }
-         for(Map.Entry<Integer,Integer> obj : m.entrySet()) 
-            if(obj.getKey()==obj.getValue()  && ans<obj.getKey())
+         for(Integer key : m.keySet()) 
+            if(key==m.get(key)  && ans<key)
                 {
-                    ans=obj.getKey();
+                    ans=key;
                 }
     
         return ans;
