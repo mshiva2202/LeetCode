@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mshiva2202/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mshiva2202/LeetCode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/mshiva2202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mshiva2202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mshiva2202/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mshiva2202/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mshiva2202/LeetCode/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/mshiva2202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mshiva2202/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mshiva2202/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/mshiva2202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mshiva2202/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mshiva2202/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mshiva2202/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
