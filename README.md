@@ -134,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mshiva2202/LeetCode/tree/master/0175-combine-two-tables) |
+| [2041-the-latest-login-in-2020](https://github.com/mshiva2202/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
