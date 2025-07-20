@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mshiva2202/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mshiva2202/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mshiva2202/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mshiva2202/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mshiva2202/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mshiva2202/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mshiva2202/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/mshiva2202/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mshiva2202/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mshiva2202/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mshiva2202/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mshiva2202/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
